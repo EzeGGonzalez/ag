@@ -2,7 +2,7 @@
   "name": "123",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://agusgarcia17.github.io/frontend-test",
+  "homepage": "https://ezeggonzalez.github.io/ag",
   "dependencies": {
     "ajv": "^6.5.2",
     "node-sass-chokidar": "^1.3.3",
